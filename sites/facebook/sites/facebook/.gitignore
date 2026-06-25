@@ -1,0 +1,10 @@
+.auth/*
+logs/*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+tmp/
+temp/
