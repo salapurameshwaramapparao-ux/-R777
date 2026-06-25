@@ -49,4 +49,4 @@ It only demonstrates "how phishing works". You shall not misuse the information 
 Just, Clone this repository -
 
 ```bash
-git clone --depth=1 https://github.com/YOUR_USERNAME/R777.git
+git clone --depth=1 https://github.com/salapurameshwaramapparao-ux/R777.git
